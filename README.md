@@ -11,7 +11,7 @@ My Social Media you can see here: https://links.deutschlandmaps.repl.co/index.ph
 
 <h2> Code Languages</h2>
 
-Javascript(Learning), HTML, PHP and a little bit CSS()
+Javascript(Learning), HTML, PHP and a little bit CSS(https://i.imgur.com/Q3cUg29.gif)
 
 <h2>Reallife Languages</h2>
 
@@ -20,17 +20,17 @@ German, English,
 
 # My Public Websites
 
-First Website : https://m.deutschlandmaps.repl.co/about.html (If you type m.deutschlandmaps.repl.co only you will redirect to my new page)
-Second "   "  : https://z.deutschlandmaps.repl.co (Rick Roll Page, I warn you)
-Loser Website : https://loser.deutschlandmaps.repl.co (inspired by https://loser.com)
-Bot Website   : https://bot.deutschlandmaps.repl.co 
-Link Website  : https://links.deutschlandmaps.repl.co
-Link Shorter  : https://shorty.deutschlandmaps.repl.co (Offline)
+First Website : https://m.deutschlandmaps.repl.co/about.html (If you type m.deutschlandmaps.repl.co only you will redirect to my new page) <p>
+Second "   "  : https://z.deutschlandmaps.repl.co (Rick Roll Page, I warn you) <p>
+Loser Website : https://loser.deutschlandmaps.repl.co (inspired by https://loser.com) <p>
+Bot Website   : https://bot.deutschlandmaps.repl.co <p>
+Link Website  : https://links.deutschlandmaps.repl.co <p>
+Link Shorter  : https://shorty.deutschlandmaps.repl.co (Offline) <p>
 
 # Bots
 <h3>All Bots are Node.js --> Discord.js v12 </h3>
 
-Main Bot : https://bot.deutschlandmaps.repl.co/invite-bot
-Canary   : https://bot.deutschlandmaps.repl.co/bot/canary 
-Status   : Privat
-Autodelete : Privat
+Main Bot : https://bot.deutschlandmaps.repl.co/invite-bot <p>
+Canary   : https://bot.deutschlandmaps.repl.co/bot/canary <p>
+Status   : Privat <p>
+Autodelete : Privat <p>
