@@ -39,6 +39,6 @@ Canary   : https://bot.deutschlandmaps.repl.co/bot/canary <p>
 Status   : Privat <p>
 Autodelete : Privat <p>
 
-  $ CDN
+  # CDN
  I have a little own <b>Content Delivery Network (CDN)</b>.
   https://cdn.deutschlandmaps.repl.co
