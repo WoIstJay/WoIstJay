@@ -11,7 +11,7 @@ My Social Media you can see here: https://links.deutschlandmaps.repl.co/index.ph
 
 <h2> Code Languages</h2>
 
-Javascript(Learning), HTML, PHP and a little bit CSS(https://i.imgur.com/Q3cUg29.gif)
+Javascript(Learning), HTML, PHP, XML� and a little bit CSS(https://i.imgur.com/Q3cUg29.gif)
 
 <h2>Reallife Languages</h2>
 
@@ -34,3 +34,7 @@ Main Bot : https://bot.deutschlandmaps.repl.co/invite-bot <p>
 Canary   : https://bot.deutschlandmaps.repl.co/bot/canary <p>
 Status   : Privat <p>
 Autodelete : Privat <p>
+
+  $ CDN
+ I have a little own <b>Content Delivery Network (CDN)</b>.
+  https://cdn.deutschlandmaps.repl.co
