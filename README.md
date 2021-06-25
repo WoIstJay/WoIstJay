@@ -15,7 +15,12 @@ My Social Media you can see here: https://links.deutschlandmaps.repl.co/index.ph
 
 <h2> Code Languages</h2>
 
-Javascript(Learning), HTML, PHP, XML� and a little bit CSS(https://i.imgur.com/Q3cUg29.gif)
+<h6>Good</h6>
+HTML, PHP, XML� and CSS
+<h6>Meh</h6>
+Javascript(NoTimeToLearn)
+<h6>I will learn</h6>
+Javascript, SQL, Python
 
 <h2>Reallife Languages</h2>
 
