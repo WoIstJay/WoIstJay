@@ -18,9 +18,9 @@ My Social Media you can see here: https://links.deutschlandmaps.repl.co/index.ph
 <h6>Good</h6>
 HTML, PHP, XML� and CSS
 <h6>Meh</h6>
-Javascript(NoTimeToLearn)(Discord.js Libary)
+Javascript(NoTimeToLearn)(Discord.js Libary), EJS
 <h6>I will learn</h6>
-Javascript, SQL
+Javascript
 
 <h2>Reallife Languages</h2>
 
