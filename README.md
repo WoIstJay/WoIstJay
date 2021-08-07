@@ -5,6 +5,7 @@ I'm Woistjay aka. Deutschlandmaps.
 I live in Germany/Bavaria.
 In my freetime I'm working on my Bots, Websites or Discord-Servers.[discord.gg/wBB8cWjvw6](https://discord.gg/wBB8cWjvw6)
 
+https://woistjay.ml
 
 
 # Social
