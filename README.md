@@ -3,7 +3,7 @@ About me
 
 I'm Woistjay aka. Deutschlandmaps.
 I live in Germany/Bavaria.
-In my freetime I'm working on my Bots, Websites or Discord-Servers.[https://discord.gg/wBB8cWjvw6](discord.gg/wBB8cWjvw6)
+In my freetime I'm working on my Bots, Websites or Discord-Servers.[discord.gg/wBB8cWjvw6](https://discord.gg/wBB8cWjvw6)
 
 
 
@@ -18,9 +18,12 @@ My Social Media you can see here: https://links.deutschlandmaps.repl.co/index.ph
 <h6>Good</h6>
 HTML, PHP, XML� and CSS
 <h6>Meh</h6>
-Javascript(NoTimeToLearn)(Discord.js Libary), EJS
+Javascript
 <h6>I will learn</h6>
 Javascript
+
+<h2>Libarys JS</h2>
+Express.js, E-JS, [React](https://github.com/facebook/react), [Discord.js v12](https://github.com/discordjs/discord.js)
 
 <h2>Reallife Languages</h2>
 
@@ -29,23 +32,17 @@ German, English,
 
 # My Public Websites
 
-Main Website: https://deutschlandmaps.repl.co
+Main Website: https://woistjay.ml
 
 First Website : https://m.deutschlandmaps.repl.co/about.html (If you type m.deutschlandmaps.repl.co only you will redirect to my new page) <p>
-Second "   "  : https://z.deutschlandmaps.repl.co (Rick Roll Page, I warn you) <p>
-Loser Website : https://loser.deutschlandmaps.repl.co (inspired by https://loser.com) <p>
-Bot Website   : https://bot.deutschlandmaps.repl.co <p>
+Old Bot Website   : https://bot.deutschlandmaps.repl.co <p>
+New Bot Website: https://gigabit-bot.ml/ <p>
 Link Website  : https://links.deutschlandmaps.repl.co <p>
-Link Shorter  : https://shorty.deutschlandmaps.repl.co (Offline) <p>
+Bots
+<h3>All Bots are Node.js v12.16.1 & Discord.js v12.5.3 </h3>
 
-# Bots
-<h3>All Bots are Node.js --> Discord.js v12 </h3>
-
-Main Bot : https://bot.deutschlandmaps.repl.co/invite-bot <p>
-Canary   : https://bot.deutschlandmaps.repl.co/bot/canary <p>
-Status   : Privat <p>
-Autodelete : Privat <p>
-
-  # CDN
+Deutschlandmaps Bot : https://bot.deutschlandmaps.repl.co/invite-bot <p>
+Gigabit Bot: https://gigabit-bot.ml/get/ <p>
+# CDN
  I have a little own <b>Content Delivery Network (CDN)</b>.
   https://cdn.deutschlandmaps.repl.co
