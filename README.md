@@ -3,14 +3,15 @@ About me
 
 I'm Woistjay aka. Deutschlandmaps.
 I live in Germany/Bavaria.
-In my freetime I'm working on my Bots, Websites or Discord-Servers.[discord.gg/wBB8cWjvw6](https://discord.gg/wBB8cWjvw6)
+In my freetime I'm working on my Bots, Websites or Discord-Servers.
 
-https://woistjay.ml
+Website: [www.woistjay.ml](https://www.woistjay.ml)
+Discord [dc.woistjay.ml ](https://dc.woistjay.ml)
 
 
 # Social
 
-My Social Media you can see here: https://links.deutschlandmaps.repl.co/index.php
+My Social Media you can see here: https://links.deutschlandmaps.repl.co/index.php (olldd)
 
 # Languages
 
@@ -31,19 +32,17 @@ Express.js, E-JS, [React](https://github.com/facebook/react), [Discord.js v12](h
 German, English,
 
 
-# My Public Websites
+# My Websites
 
-Main Website: https://woistjay.ml
+Personal Website: [www.woistjay.ml](https://www.woistjay.ml)
+Discord Worlds: [www.discordworlds.ml](https://www.discordworlds.ml)
+Gigabit Bot: [gigabit-bot.ml](https://gigabit-bot.ml)
 
-First Website : https://m.deutschlandmaps.repl.co/about.html (If you type m.deutschlandmaps.repl.co only you will redirect to my new page) <p>
-Old Bot Website   : https://bot.deutschlandmaps.repl.co <p>
-New Bot Website: https://gigabit-bot.ml/ <p>
-Link Website  : https://links.deutschlandmaps.repl.co <p>
-Bots
+# Bots
 <h3>All Bots are Node.js v12.16.1 & Discord.js v12.5.3 </h3>
 
-Deutschlandmaps Bot : https://bot.deutschlandmaps.repl.co/invite-bot <p>
-Gigabit Bot: https://gigabit-bot.ml/get/ <p>
+Deutschlandmaps Bot : [bot.deutschlandmaps.repl.co/add](https://bot.deutschlandmaps.repl.co/add) <p>
+Gigabit Bot: (gigabit-bot.ml/get)[https://gigabit-bot.ml/get/] <p>
 # CDN
- I have a little own <b>Content Delivery Network (CDN)</b>.
-  https://cdn.deutschlandmaps.repl.co
+ I have a little own private <b>Content Delivery Network (CDN)</b>.
+  https://cdnplus,ml)
