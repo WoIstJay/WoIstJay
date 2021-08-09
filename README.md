@@ -45,4 +45,4 @@ Deutschlandmaps Bot : [bot.deutschlandmaps.repl.co/add](https://bot.deutschlandm
 Gigabit Bot: [gigabit-bot.ml/get](https://gigabit-bot.ml/get) <p>
 # CDN
  I have a little own private <b>Content Delivery Network (CDN)</b>.
-  https://cdnplus,ml)
+  [cdnplus.ml](https://cdnplus,ml)
