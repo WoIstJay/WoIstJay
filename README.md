@@ -11,7 +11,7 @@ Discord [dc.woistjay.ml ](https://dc.woistjay.ml)
 
 # Social
 
-My Social Media you can see here: https://links.deutschlandmaps.repl.co/index.php (olldd)
+My Social Media you can see here: ```https://links.deutschlandmaps.repl.co/index.php``` (old, we remade soon)
 
 # Languages
 
