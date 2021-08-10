@@ -7,7 +7,12 @@ In my freetime I'm working on my Bots, Websites or Discord-Servers.
 
 Website: [www.woistjay.ml](https://www.woistjay.ml) <p>
 Discord: [dc.woistjay.ml ](https://dc.woistjay.ml)
+ 
+# Stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=woistjay&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/WoIstJay/WoIstJay)
 
+
+ 
 
 # Social
 
