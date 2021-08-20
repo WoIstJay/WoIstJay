@@ -50,5 +50,5 @@ Deutschlandmaps Bot : [bot.deutschlandmaps.repl.co/add](https://bot.deutschlandm
 Gigabit Bot: [gigabit-bot.ml/get](https://gigabit-bot.ml/get) <p>
 # CDN
  I have a little own private <b>Content Delivery Network (CDN)</b>.
-  [cdnplus.ml](https://cdnplus.ml) <p>
+  [hl3.discordworlds.ml](https://hl3.discordworldscdn.ml) <p>
  I use my cdn's to delivery image and some other cotent to my websites or bots.
