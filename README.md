@@ -11,7 +11,7 @@ Discord: [dc.woistjay.ml ](https://dc.woistjay.ml)
 # Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=woistjay&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/WoIstJay/WoIstJay)
 
-
+ I see me as Fullstack webdeveloper, but I do not much in both, e.g. I do sometimes things as frontend-dev and sometimes in the backend. And a small (discord) bot developer. 
  
 
 # Social
